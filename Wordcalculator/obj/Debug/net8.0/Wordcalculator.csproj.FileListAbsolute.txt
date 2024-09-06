@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Wordcalculator\bin\Debug\net8.0\Wordcalculator.exe
+D:\Programmering\Programmering\Wordcalculator\bin\Debug\net8.0\Wordcalculator.deps.json
+D:\Programmering\Programmering\Wordcalculator\bin\Debug\net8.0\Wordcalculator.runtimeconfig.json
+D:\Programmering\Programmering\Wordcalculator\bin\Debug\net8.0\Wordcalculator.dll
+D:\Programmering\Programmering\Wordcalculator\bin\Debug\net8.0\Wordcalculator.pdb
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.AssemblyInfo.cs
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.dll
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\refint\Wordcalculator.dll
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.pdb
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\Wordcalculator.genruntimeconfig.cache
+D:\Programmering\Programmering\Wordcalculator\obj\Debug\net8.0\ref\Wordcalculator.dll
